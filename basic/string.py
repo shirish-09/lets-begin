@@ -26,3 +26,7 @@ print("value is",numericvalue)
 
 user_numeric_value=input("please enter a number:==>")
 print("inputed number is:",user_numeric_value)
+
+user_numeric_value=input("enter your first name:==>")
+user_numerc_value=input("enter your last name:==>")
+print("your full name is:==>",user_numeric_value,user_numerc_value)
