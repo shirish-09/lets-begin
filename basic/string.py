@@ -1,3 +1,6 @@
+from unicodedata import numeric
+
+
 print(r"this is \\ double backlash")
 print(9/3)#fps
 print(9//3)#integer division
@@ -15,3 +18,9 @@ print("\U0001F600")
 print("shirish"+" "+"mainali")
 print("shirish"+"mainali"+str(123)) 
 
+#variable in python:
+numericvalue =11
+print("value is",numericvalue)
+'''''
+numeric_value ==>snake case _wiriting (recc for python)
+''''''
