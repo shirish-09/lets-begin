@@ -21,6 +21,8 @@ print("shirish"+"mainali"+str(123))
 #variable in python:
 numericvalue =11
 print("value is",numericvalue)
-'''''
-numeric_value ==>snake case _wiriting (recc for python)
-''''''
+
+#numeric_value ==>snake case _wiriting (recc for python)
+
+user_numeric_value=input("please enter a number:==>")
+print("inputed number is:",user_numeric_value)
